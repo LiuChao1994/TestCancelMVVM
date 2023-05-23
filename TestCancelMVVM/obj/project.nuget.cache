@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCu+gyVHbRtbCwny3j9GvfspBY9AEXMeHilHypWDaLv06VlTUKI2hTGieN5WV1BbKk62VQld3VVXYIywwkTmkw==",
+  "success": true,
+  "projectFilePath": "E:\\TestDome\\TestDome3\\TestCancelMVVM\\TestCancelMVVM\\TestCancelMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13487\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
